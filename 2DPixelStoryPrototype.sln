@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPixelStoryPrototype.CSharp.Plugins", "2DPixelStoryPrototype.CSharp.Plugins.csproj", "{4DA3C7FB-1344-1A0E-B639-1E6C8855A31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPixelStoryPrototype.CSharp", "2DPixelStoryPrototype.CSharp.csproj", "{9A76EDBC-4209-D884-981A-7CC2469D22E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPixelStoryPrototype.CSharp.Editor", "2DPixelStoryPrototype.CSharp.Editor.csproj", "{CA6B3958-C12B-0886-BB7B-B819B559084F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA3C7FB-1344-1A0E-B639-1E6C8855A31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA3C7FB-1344-1A0E-B639-1E6C8855A31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA3C7FB-1344-1A0E-B639-1E6C8855A31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA3C7FB-1344-1A0E-B639-1E6C8855A31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A76EDBC-4209-D884-981A-7CC2469D22E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A76EDBC-4209-D884-981A-7CC2469D22E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A76EDBC-4209-D884-981A-7CC2469D22E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A76EDBC-4209-D884-981A-7CC2469D22E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6B3958-C12B-0886-BB7B-B819B559084F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6B3958-C12B-0886-BB7B-B819B559084F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6B3958-C12B-0886-BB7B-B819B559084F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6B3958-C12B-0886-BB7B-B819B559084F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
